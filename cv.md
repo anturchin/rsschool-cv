@@ -1,6 +1,6 @@
-##Andrey Turchin
+## Andrey Turchin
 ___
-###contact information:
+### contact information:
 
 * _phone number:_ __+79219178513__
 * _e-mail:_ __turchintwo@gmail.com__
@@ -8,7 +8,7 @@ ___
 * _github:_ __anturchin__
 
 ---
-###about me:
+### about me:
 
 
 at a basic level, i know HTML, CSS (SASS/SCSS), javaScript (ES6)
@@ -17,13 +17,13 @@ i am constantly improving my web development skills by taking online courses to 
 
 i want to gain experience working in a team of professionals and learn new technologies
 
-#####personal qualities:
+##### personal qualities:
 * _purposeful_
 * _responsible_
 * _I'm learning fast_
 * _I know how to work in a team_
 
-#####skills:
+##### skills:
 * _html, css (scss/sass), js_
 * _react, node.js_
 * _mysql / PostgreSQL_
@@ -33,7 +33,7 @@ i want to gain experience working in a team of professionals and learn new techn
 
 ---
 
-###code example:
+### code example:
 
 ```javaScript
 
@@ -60,9 +60,9 @@ function quickSort(arr) {
 ```
 ___
 
-###education:
+### education:
 * ___ITMO University web developer courses___
 * ___udemy platform___
 
-###english language:
+### english language:
 	A1-Elementary	
