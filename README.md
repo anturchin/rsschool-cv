@@ -1,1 +1,1 @@
-# rsschool-cv
+https://anturchin.github.io/rsschool-cv/
