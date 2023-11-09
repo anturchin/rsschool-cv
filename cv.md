@@ -1,0 +1,33 @@
+##Andrey Turchin
+___
+###contact information:
+
+* _phone number:_ __+79219178513__
+* _e-mail:_ __turchintwo@gmail.com__
+* _telegram:_ __@anturchin__
+* _github:_ __anturchin__
+
+---
+###about me:
+
+
+at a basic level, i know HTML, CSS (SASS/SCSS), javaScript (ES6)
+
+i am constantly improving my web development skills by taking online courses to keep abreast of the latest trends and best practices 
+
+i want to gain experience working in a team of professionals and learn new technologies
+
+#####skills:
+* _html, css (scss/sass), js_
+* _react, node.js_
+* _mysql / PostgreSQL_
+* _gulp, webpack, git_
+* _rest api_
+
+#####personal qualities:
+* _purposeful_
+* _responsible_
+* _I'm learning fast_
+* _I know how to work in a team_
+---
+
